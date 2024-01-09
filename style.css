@@ -91,6 +91,7 @@ img {
   flex-direction: column;
   justify-content: center;
   gap: 30px;
+  margin-bottom: 40px;
 }
 
 .other_details h2 {
@@ -135,10 +136,7 @@ img {
 }
 
 .btn {
-  cursor: pointer;
-  border: none;
   margin-bottom: 25px;
-  margin-left: 45%;
   letter-spacing: 1px;
   padding: 8px 16px;
   background-color: cornflowerblue;
@@ -155,9 +153,6 @@ img {
   }
   .address_info i {
     display: none;
-  }
-  .btn {
-    margin-left: 35%;
   }
 }
 
